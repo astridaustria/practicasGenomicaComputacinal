@@ -1,0 +1,12 @@
+# Parte III.
+
+*Respuesta 2:**
+
+Función de la SARS-CoV-2 spike ectodomain structure: Esta estructura está formada por proteínas las cuales median la entrada del Coronavirus en las 
+células del huésped. Los coronavirus son virus de ARN de cadena sencilla positiva con su genoma dentro de una cápside helicoidal de proteína 
+nucleocápside (N). Asociadas a esta envoltura también hay tres proteínas proteínas estructurales: las proteínas de membrana (M) y las proteínas de 
+envoltura (E) son las involucradas en el ensamblaje del virus, mientras que las proteínas de espigas (S) son los mediadores de la entrada del virus 
+a la célula. La manera en como esta estructura interviene con el ingreso a las células del hospedero es gracias al ectodominio de la espiga, esta 
+consta de una subunidad de unión al receptor S1 y una subunidad de fusión de membrana S2. Durante la entrada del virus, S1 se une a un receptor en 
+la superficie de la célula huésped para la unión viral, y S2 fusiona las membranas del huésped y viral, permitiendo que los genomas virales entren 
+en las células huésped, la unión de estos dos es imprescindible para el ciclo de infección del virus.

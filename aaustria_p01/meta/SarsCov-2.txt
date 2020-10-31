@@ -1,0 +1,9 @@
+# Parte III.
+
+**Respuesta 1:**
+
+SARS-CoV-2 es un virus que causa enfermedades en el tracto respiratorio, gastrointestinal y el SNC. dentro de la familia de los coronavirus hay 4 géneros: alfa, beta 
+(SARS-CoV-2), gamma y delta. Es un virus RNA de cadena sencilla positiva y su está constituido por un ORF1 ab que codifica para proteínas no estructurales, proteínas S (con los 
+dominios S1 y S2, un tallo trimérico, región transmembranal y cola intracitoplasmática), proteínas M y proteínas N. Mediante el análisis filogenético se ha determinado que su 
+origen proviene de los murciélagos pero hubo un hospedero intermedio antes del humano. Y al final menciona dos vacunas; la vacuna Novavax, y la vacuna de la Universidad Laval 
+Quebec.
