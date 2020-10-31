@@ -4,7 +4,7 @@
 
 # Parte I.
 
-** Respuesta 1:**
+**Respuesta 1:**
 
 #!/Users/uliaus
 [echo] [] [$SHELL]
