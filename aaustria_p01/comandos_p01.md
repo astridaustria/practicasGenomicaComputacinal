@@ -4,7 +4,7 @@
 
 # Parte I.
 
-** Respuesta 1:**
+**Respuesta 1:**
 
 #!/Users/uliaus
 [echo] [] [$SHELL]
@@ -61,7 +61,7 @@ sleep 300 && [echo] “ya puedo continuar”
 [kill] [-9] [PID]
 
 
-#Parte III
+# Parte III
 
 **Respuesta 1:**
 
@@ -92,7 +92,7 @@ Función de la SARS-CoV-2 spike ectodomain structure: Esta estructura está form
 [mv] sarscov2_genome.fasta sarscov2_genome.gff3 splike_c.faa splike_b.faa splike_a.faa SRR10971381_R1.fastq.gz SRR10971381_R2.fastq.gz sarscov2_assembly.fasta.gz [/Users/uliaus/GenomicaComputacional/aaustria_p01/data/raw_data]
 
 
-#Parte IV
+# Parte IV
 
 **Respuesta 1:**
 
@@ -130,7 +130,7 @@ SGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCND
 #!/Users/uliaus/GenomicaComputacional/aaustria_p01/data/raw_data
 [] [] [splike_a.faa splike_b.faa splike_c.faa > /Users/uliaus/GenomicaComputacional/aaustria_p01/data/filtered/glycoproteins.faa]
 
-** Respuesta 5:**
+**Respuesta 5:**
 
 #!/Users/uliaus/GenomicaComputacional/aaustria_p01/data/raw_data
 [mv] [] [splike_*.faa >> /Users/uliaus/GenomicaComputacional/aaustria_p01/data/archive]
